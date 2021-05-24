@@ -1,2 +1,2 @@
 # matriks-gift
-menyimpan program sederhana untuk membantu sesama
+membuat Applikasi untuk membantu anak kebutuhan khusus
